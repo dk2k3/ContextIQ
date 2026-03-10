@@ -252,7 +252,6 @@ Response:
 ## Author
 
 **Dheeraj K**  
-Computer Science & Engineering (Data Science)  
 Interested in **AI Systems, GenAI, and Cybersecurity**
 
 ---
