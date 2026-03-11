@@ -173,6 +173,15 @@ This launches:
 | Streamlit Frontend | http://localhost:8501        |
 
 ---
+OR
+---
+1.Start Backend Manually
+
+**Run:uvicorn app.api.server:app --reload**
+
+2.Start Frontend
+
+**streamlit run ui/app.py**
 
 ## How It Works
 
